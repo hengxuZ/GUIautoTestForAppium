@@ -1,0 +1,10 @@
+{
+  "deviceName": "HUAWEI",
+  "version": 9,
+  "appPackage": "com.bkt.exchange",
+  "appActivity": ".activity.HomePageActivity",
+  "platformName": "Android",
+  "noReset": "True",
+  "udid": "192.168.103.101:5555"
+}
+

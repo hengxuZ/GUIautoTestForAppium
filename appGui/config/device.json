@@ -1,0 +1,10 @@
+{
+  "deviceName": "Google",
+  "version": 8,
+  "appPackage": "com.bkex.exchangev1",
+  "appActivity": "com.bkt.exchange.activity.HomePageActivity",
+  "platformName": "Android",
+  "noReset": "True",
+  "new_command_timeout": 600
+}
+

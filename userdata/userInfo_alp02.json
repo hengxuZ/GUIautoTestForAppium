@@ -1,0 +1,13 @@
+{
+  "account": "m15583730895@163.com",
+  "password": "qazwsxedc",
+  "recharge":{
+    "USDT_TRC20": "TStgFLNY2uJG9tEQDPy2XqnKUymbt12Yrf",
+    "USDT_ERC20": "0xa67f8deb2cd95f95c7972d61e217c6a43275e623",
+    "USDT_OMNI ": "14eYsWg6aNrjSHdzBrjS4ZzHkqexLcj68x"
+  },
+  "googleKey":"OMHKTIDVBGYPM5GG2QFMF6DQWZKHTO7O",
+  "UID": "5WNOOS9Q",
+  "OtherUID":"OENTR3OR",
+  "fundPassword": "qazQAZ123#"
+}

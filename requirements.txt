@@ -1,0 +1,5 @@
+behave==1.2.6
+parse==1.17.0
+pytest==6.0.2
+requests==2.24.0
+urllib3==1.25.10

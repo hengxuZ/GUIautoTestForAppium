@@ -1,0 +1,14 @@
+{
+  "account": "591134058@qq.com",
+  "password": "qazwsxedc",
+  "recharge":{
+    "USDT_TRC20": "TStgFLNY2uJG9tEQDPy2XqnKUymbt12Yrf",
+    "USDT_ERC20": "0xa67f8deb2cd95f95c7972d61e217c6a43275e623",
+    "USDT_OMNI ": "14eYsWg6aNrjSHdzBrjS4ZzHkqexLcj68x"
+  },
+  "googleKey":"OMHKTIDVBGYPM5GG2QFMF6DQWZKHTO7O",
+  "googleSecret": "Ed3ehfYFuvOveOjnT4o_utQeFOvj8nnJStI9Ntvb_F-Fyeevvelqjme10dzHUQ0CEGV2HpbMegEJuDOidIzsoq2CoHgN0EyZXVsBTjuqW5xK79Mb5181hB-z8-109ridyXMyRVnCSw--hiDQXClAu2D-6hKSRmyv0ILwleGsu5I",
+  "UID": "OR9CWHZM",
+  "OtherUID":"OENTR3OR",
+  "fundPassword": "qazQAZ123#"
+}
